@@ -1,0 +1,88 @@
+87
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-ascii-0
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-cns11643-1
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-cns11643-2
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-cns11643-3
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-gb18030.2000-0
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-gb2312.1980-0
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-iso10646-1
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-iso8859-1
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-iso8859-15
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-iso8859-2
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-iso8859-3
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-iso8859-5
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-iso8859-9
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-jisx0201.1976-0
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-jisx0212.1990-0
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-koi8-e
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-koi8-r
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-koi8-ru
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-koi8-u
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-koi8-uni
+msyh.ttc -microsoft-microsoft yahei-medium-r-normal--0-0-0-0-p-0-microsoft-cp1252
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-ascii-0
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-cns11643-1
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-cns11643-2
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-cns11643-3
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-gb18030.2000-0
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-gb2312.1980-0
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-iso10646-1
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-iso8859-1
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-iso8859-15
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-iso8859-2
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-iso8859-3
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-iso8859-5
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-iso8859-9
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-jisx0201.1976-0
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-jisx0212.1990-0
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-koi8-e
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-koi8-r
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-koi8-ru
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-koi8-u
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-koi8-uni
+msyhbd.ttc -microsoft-microsoft yahei-bold-r-normal--0-0-0-0-p-0-microsoft-cp1252
+simfang.ttc -misc-fangsong-medium-r-normal--0-0-0-0-p-0-cns11643-1
+simfang.ttc -misc-fangsong-medium-r-normal--0-0-0-0-p-0-cns11643-2
+simfang.ttc -misc-fangsong-medium-r-normal--0-0-0-0-p-0-cns11643-3
+simfang.ttc -misc-fangsong-medium-r-normal--0-0-0-0-p-0-gb18030.2000-0
+simfang.ttc -misc-fangsong-medium-r-normal--0-0-0-0-p-0-gb2312.1980-0
+simfang.ttc -misc-fangsong-medium-r-normal--0-0-0-0-p-0-iso10646-1
+simfang.ttc -misc-fangsong-medium-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+simfang.ttc -misc-fangsong-medium-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+simhei.ttc -misc-simhei-medium-r-normal--0-0-0-0-p-0-cns11643-1
+simhei.ttc -misc-simhei-medium-r-normal--0-0-0-0-p-0-cns11643-2
+simhei.ttc -misc-simhei-medium-r-normal--0-0-0-0-p-0-cns11643-3
+simhei.ttc -misc-simhei-medium-r-normal--0-0-0-0-p-0-gb18030.2000-0
+simhei.ttc -misc-simhei-medium-r-normal--0-0-0-0-p-0-gb2312.1980-0
+simhei.ttc -misc-simhei-medium-r-normal--0-0-0-0-p-0-iso10646-1
+simhei.ttc -misc-simhei-medium-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+simhei.ttc -misc-simhei-medium-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+simkai.ttc -misc-kaiti-medium-r-normal--0-0-0-0-p-0-cns11643-1
+simkai.ttc -misc-kaiti-medium-r-normal--0-0-0-0-p-0-cns11643-2
+simkai.ttc -misc-kaiti-medium-r-normal--0-0-0-0-p-0-cns11643-3
+simkai.ttc -misc-kaiti-medium-r-normal--0-0-0-0-p-0-gb18030.2000-0
+simkai.ttc -misc-kaiti-medium-r-normal--0-0-0-0-p-0-gb2312.1980-0
+simkai.ttc -misc-kaiti-medium-r-normal--0-0-0-0-p-0-iso10646-1
+simkai.ttc -misc-kaiti-medium-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+simkai.ttc -misc-kaiti-medium-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+simpbdo.ttc -misc-simplified arabic-bold-r-normal--0-0-0-0-p-0-ascii-0
+simpbdo.ttc -misc-simplified arabic-bold-r-normal--0-0-0-0-p-0-iso10646-1
+simpbdo.ttc -misc-simplified arabic-bold-r-normal--0-0-0-0-p-0-iso8859-1
+simpbdo.ttc -misc-simplified arabic-bold-r-normal--0-0-0-0-p-0-iso8859-15
+simpbdo.ttc -misc-simplified arabic-bold-r-normal--0-0-0-0-p-0-microsoft-cp1252
+simsun.ttc -misc-simsun-medium-r-normal--0-0-0-0-p-0-ascii-0
+simsun.ttc -misc-simsun-medium-r-normal--0-0-0-0-p-0-cns11643-1
+simsun.ttc -misc-simsun-medium-r-normal--0-0-0-0-p-0-cns11643-2
+simsun.ttc -misc-simsun-medium-r-normal--0-0-0-0-p-0-cns11643-3
+simsun.ttc -misc-simsun-medium-r-normal--0-0-0-0-p-0-gb18030.2000-0
+simsun.ttc -misc-simsun-medium-r-normal--0-0-0-0-p-0-gb2312.1980-0
+simsun.ttc -misc-simsun-medium-r-normal--0-0-0-0-p-0-iso10646-1
+simsun.ttc -misc-simsun-medium-r-normal--0-0-0-0-p-0-iso8859-1
+simsun.ttc -misc-simsun-medium-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+simsun.ttc -misc-simsun-medium-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+simsun.ttc -misc-simsun-medium-r-normal--0-0-0-0-p-0-koi8-r
+simsunb.ttc -misc-simsun extb-medium-r-normal--0-0-0-0-m-0-iso10646-1

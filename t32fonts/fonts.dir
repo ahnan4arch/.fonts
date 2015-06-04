@@ -1,0 +1,20 @@
+19
+t32lcob.pcf t32-lcob-16
+t32lcod.pcf t32-lcod-16
+t32lhlb.pcf t32-lhlb-16
+t32lhll.pcf t32-lhll-16
+t32lsyb.pcf t32-lsyb-16
+t32lsys.pcf t32-lsys-16
+t32scob.pcf t32-codb-13
+t32scod.pcf t32-cod-13
+t32shlb.pcf t32-hllb-13
+t32shll.pcf t32-hll-13
+t32ssyb.pcf t32-sysb-13
+t32ssys.pcf t32-sys-13
+t32xcob.pcf t32-xcob-20
+t32xcod.pcf t32-xcod-20
+t32xhlb.pcf t32-xhlb-20
+t32xhll.pcf t32-xhll-20
+t32xsyb.pcf t32-xsyb-20
+t32xsys.pcf t32-xsys-20
+t32ysys.pcf t32-ssys-9
